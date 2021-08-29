@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/htmlcss-responsive-practice-4-FpnX1F5Id)
-- Live Site URL: [Live Site URL](https://stats-preview-card-challenge-9az39r5c9-spongedad2.vercel.app/)
+- Live Site URL: [Live Site URL](https://3-column-challenge.vercel.app/)
 
 ## My process
 
